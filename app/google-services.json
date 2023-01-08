@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "237571938001",
+    "project_id": "chatrealtime-dc268",
+    "storage_bucket": "chatrealtime-dc268.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237571938001:android:464e4944b2e602383017f0",
+        "android_client_info": {
+          "package_name": "com.anonymous.getapifromflowcoroutines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237571938001-bqemohl502n7cte25hpioig41cp7app6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHO1PVK1z-POM2g0-9hogi13XsV65H2FA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237571938001-bqemohl502n7cte25hpioig41cp7app6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
